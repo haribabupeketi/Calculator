@@ -45,8 +45,8 @@ form input.equal{
     width: 145px;
 
 }
-form input.operator{
-    color:greenyellow !important;
+form input.operator {
+    color: greenyellow !important;
 }
 
 @media(max-width:440px) {
