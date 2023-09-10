@@ -46,7 +46,7 @@ form input.equal{
 
 }
 form input.operator{
-    color:greenyellow;
+    color:greenyellow !important;
 }
 
 @media(max-width:440px) {
