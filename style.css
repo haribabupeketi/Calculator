@@ -71,6 +71,13 @@ form input.operator {
     form input.equal {
         width: 129px;
     }
+    .calculator form div.display > input {
+        background: #e2d6d6;
+        color: #000;
+        padding: 0 7px;
+        height: 45px;
+        font-size: larger;
+    }
 }
 
 @media(max-width:320px) {
