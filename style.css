@@ -75,8 +75,8 @@ form input.operator {
         background: #e2d6d6;
         color: #000;
         padding: 0 7px;
-        height: 45px;
-        font-size: larger;
+        height: 50px;
+        font-size:x-large;
     }
 }
 
